@@ -1,4 +1,4 @@
 tempsandbox
 ===========
 
-This is a temporary sanbox, i will post something userfull sooon
+This is a temporary sandbox, i will post something userfull sooon
